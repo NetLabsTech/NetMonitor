@@ -11,7 +11,8 @@ It provides real-time visibility into inbound and outbound connections, with pro
 - Local diagnostic and analysis capabilities
 
 ## Download
-Download the latest version here:  
+Download the latest version here:
+https://github.com/NetLabsTech/NetMonitor/releases/latest
 
 ## Support (optional)
 If you find this tool useful, you can support its development:  
