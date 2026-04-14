@@ -1,6 +1,6 @@
 # NetMonitor
 
-[![NetMonitor](./img/netmonitorlabs.jpg)](https://github.com/NetLabsTech/NetMonitor/releases/latest)
+[![NetMonitor](./img/netmonitorlabs.png)](https://github.com/NetLabsTech/NetMonitor/releases/latest)
 
 NetMonitor is a local network monitoring and behavioral analysis tool for Windows.
 
