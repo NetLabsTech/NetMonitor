@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/NetLabsTech/NetMonitor/releases/latest">
-    <img src="./img/NetMonitorLabs.png" width="500"/>
+    <img src="./img/NetMonitorLabs.png" width="300"/>
   </a>
 </p>
 
