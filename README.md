@@ -1,35 +1,46 @@
 # NetMonitor
 
-NetMonitor is a local network connection analysis tool for Windows.
+NetMonitor is a local network monitoring and behavioral analysis tool for Windows.
 
-It provides real-time visibility into inbound and outbound connections, with process-level correlation, helping identify unusual or unexpected network activity on the local system.
+It provides real-time visibility into inbound and outbound connections, correlating them with running processes to help identify anomalous or context-inconsistent activity on the system.
 
 ## Features
-- Real-time inbound and outbound connection monitoring
-- Process-to-connection correlation
-- Basic network inspection and visibility
-- Local diagnostic and analysis capabilities
+
+- Real-time inbound and outbound connection monitoring  
+- Process-to-connection correlation  
+- Behavioral analysis of network activity  
+- Detection of unusual or context-inconsistent patterns  
+- Lightweight inspection and local analysis capabilities  
+- Fully local operation (no external data collection)
+
+## Use Case
+
+NetMonitor is designed for users who want deeper visibility into system-level network behavior, including:
+
+- System administrators  
+- Security enthusiasts  
+- Advanced users  
+
+It is intended as a complementary tool for analysis and inspection, not as a replacement for antivirus or endpoint protection solutions.
 
 ## Download
-Download the latest version here:
+
+Download the latest version here:  
 https://github.com/NetLabsTech/NetMonitor/releases/latest
 
 ## Support (optional)
+
 If you find this tool useful, you can support its development:  
 https://paypal.me/netmonitorlabs
 
 ## Disclaimer
 
-This software is provided for educational, diagnostic and security analysis purposes only.
+This software is provided for educational, diagnostic, and security analysis purposes only.
 
-The author makes no guarantees regarding the accuracy, reliability, or completeness of the information provided by this tool.
+It operates entirely on the local system and does not transmit data externally by default.
 
-This software operates locally on the system where it is executed.  
-No external data collection or transmission is performed by default.
+The author makes no guarantees regarding accuracy or completeness of the analysis provided.
 
-Users are solely responsible for how they use this software.  
-Any misuse, including but not limited to unauthorized monitoring of networks or systems, is strictly the responsibility of the user.
-
-The author shall not be held liable for any damage, data loss, legal issues, or misuse resulting from the use of this software.
+Users are solely responsible for how they use this software.
 
 Use at your own risk.
