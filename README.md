@@ -1,5 +1,7 @@
 # NetMonitor
 
+[![NetMonitor](./img/netmonitorlabs.jpg)](https://github.com/NetLabsTech/NetMonitor/releases/latest)
+
 NetMonitor is a local network monitoring and behavioral analysis tool for Windows.
 
 It provides real-time visibility into inbound and outbound connections, correlating them with running processes to help identify anomalous or context-inconsistent activity on the system.
