@@ -1,50 +1,107 @@
-# NetMonitor
+<h1>🚀 NetMonitor PRO</h1>
 
 <a href="https://github.com/NetLabsTech/NetMonitor/releases/latest">
   <img src="./img/NetMonitorLabs.png" width="280"/>
 </a>
 
-NetMonitor is a local network monitoring and behavioral analysis tool for Windows.
+<p><b>Real-time network detection, behavioral analysis and deception engine for Windows.</b></p>
 
-It provides real-time visibility into inbound and outbound connections, correlating them with running processes to help identify anomalous or context-inconsistent activity on the system.
+<p>
+NetMonitor provides deep visibility into system-level network activity by correlating connections with running processes and detecting anomalous or context-inconsistent behavior in real time.
+</p>
 
-## Features
+<hr>
 
-- Real-time inbound and outbound connection monitoring  
-- Process-to-connection correlation  
-- Behavioral analysis of network activity  
-- Detection of unusual or context-inconsistent patterns  
-- Lightweight inspection and local analysis capabilities  
-- Fully local operation (no external data collection)
+<h2>🔥 Key Capabilities</h2>
 
-## Use Case
+<ul>
+  <li>Real-time inbound & outbound traffic detection</li>
+  <li>Process-to-connection correlation</li>
+  <li>Behavioral analysis (not just packet inspection)</li>
+  <li>Detection of anomalous or inconsistent activity</li>
+  <li>Deception sandbox (trap mode) for interaction logging</li>
+  <li>Canary-based tracking and attribution</li>
+  <li>Fully local operation (no external data collection)</li>
+</ul>
 
-NetMonitor is designed for users who want deeper visibility into system-level network behavior, including:
+<hr>
 
-- System administrators  
-- Security enthusiasts  
-- Advanced users  
+<h2>🧠 What Makes It Different</h2>
 
-It is intended as a complementary tool for analysis and inspection, not as a replacement for antivirus or endpoint protection solutions.
+<p>
+Unlike traditional network monitors, NetMonitor focuses on:
+</p>
 
-## Download
+<ul>
+  <li><b>Behavior</b>, not just traffic</li>
+  <li><b>Context correlation</b> between processes and connections</li>
+  <li>Detection of suspicious patterns even when traffic appears legitimate</li>
+</ul>
 
-Download the latest version here:  
-https://github.com/NetLabsTech/NetMonitor/releases/latest
+<hr>
 
-## Support (optional)
+<h2>🎯 Use Cases</h2>
 
-If you find this tool useful, you can support its development:  
-https://paypal.me/netmonitorlabs
+<ul>
+  <li>Detect port scans and reconnaissance activity</li>
+  <li>Identify suspicious outbound connections</li>
+  <li>Analyze process behavior in real time</li>
+  <li>Monitor unexpected network usage</li>
+  <li>Test environments using tools such as:
+    <ul>
+      <li>nmap</li>
+      <li>masscan</li>
+      <li>hping3</li>
+      <li>hydra</li>
+    </ul>
+  </li>
+</ul>
 
-## Disclaimer
+<hr>
 
-This software is provided for educational, diagnostic, and security analysis purposes only.
+<h2>📥 Download</h2>
 
-It operates entirely on the local system and does not transmit data externally by default.
+<p>
+👉 <a href="https://github.com/NetLabsTech/NetMonitor/releases/latest">Download latest release</a>
+</p>
 
-The author makes no guarantees regarding accuracy or completeness of the analysis provided.
+<hr>
 
-Users are solely responsible for how they use this software.
+<h2>⚠️ Disclaimer</h2>
 
-Use at your own risk.
+<p>
+This software is provided for educational, diagnostic and security analysis purposes only.
+</p>
+
+<p>
+NetMonitor operates entirely on the local system and does not transmit data externally by default.
+</p>
+
+<p>
+The tool is designed to monitor network activity and system behavior. It does not perform exploitation, intrusion or unauthorized actions by itself.
+</p>
+
+<p>
+The author is not responsible for any misuse of this software, including but not limited to unauthorized monitoring, violation of privacy, or illegal activities.
+</p>
+
+<p>
+Users are solely responsible for ensuring that their use of this software complies with applicable laws and regulations.
+</p>
+
+<p>
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose.
+</p>
+
+<p>
+Under no circumstances shall the author be held liable for any direct, indirect, incidental or consequential damages arising from the use or misuse of this software.
+</p>
+
+<hr>
+
+<h2>❤️ Support</h2>
+
+<p>
+If you find this project useful:<br>
+👉 <a href="https://paypal.me/netmonitorlabs">Support development</a>
+</p>
